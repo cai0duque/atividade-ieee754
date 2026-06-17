@@ -22,7 +22,7 @@ Caso você não possua o ambiente Python configurado no seu computador, você po
 ### 1. Executando no Google Colab
 O Google Colab é uma plataforma do Google que permite executar códigos em Python na nuvem de forma muito interativa.
 
-1. Acesse o site do Google Colab.
+1. Acesse o site do [Google Colab](https://colab.research.google.com/).
 2. Clique na opção **"Novo notebook"** na tela inicial.
 3. Abra o arquivo `calculadora_ieee754.py` em qualquer bloco de notas ou leitor de texto e **copie todo o código**.
 4. **Cole o código** na primeira célula cinza que aparecerá no centro da tela do Colab.
@@ -32,9 +32,9 @@ O Google Colab é uma plataforma do Google que permite executar códigos em Pyth
 ### 2. Executando no OneCompiler (Ainda mais rápido)
 O OneCompiler é um compilador virtual super rápido e não exige sequer que você tenha uma conta logada.
 
-1. Acesse a área de Python no site OneCompiler.
+1. Acesse a área de Python no site [OneCompiler](https://onecompiler.com/python)
 2. No editor de texto central (o arquivo `main.py`), você verá um pequeno código de exemplo. **Apague todo aquele código**.
-3. Abra o arquivo `calculadora_ieee754.py` original do projeto e **copie todo o código**.
-4. **Cole o nosso código** no editor que você acabou de esvaziar.
+3. Visite o arquivo `calculadora_ieee754.py` original aqui e **copie todo o código**.
+4. **Cole o nosso código** no editor do site OneCompiler que você acabou de esvaziar.
 5. Clique no botão azul **"Run"** localizado no canto superior direito da tela.
 6. Na aba de "Output" (ou terminal de saída) na parte inferior direita, o programa começará a rodar pedindo seus inputs. Digite os valores desejados, aperte "Enter" e veja a "mágica" acontecer.
